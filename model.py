@@ -6,4 +6,6 @@ def model1():
 
     def model2():
         print('adding codoe for ML model2')
-        
+
+
+    print("model 2 is performing best")
